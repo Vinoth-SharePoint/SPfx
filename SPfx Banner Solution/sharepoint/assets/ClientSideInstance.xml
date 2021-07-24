@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+    <ClientSideComponentInstance
+        Title="SPfxSiteMessageSolution"
+        Location="ClientSideExtension.ApplicationCustomizer"
+        ComponentId="0af04d14-773d-4839-a2fa-114b990d2277"
+        Properties="{&quot;listName&quot;:&quot;BannerMessages&quot;}"
+        HostProperties="{&quot;preAllocatedApplicationCustomizerTopHeight&quot;:&quot;150&quot;}">
+    </ClientSideComponentInstance>
+</Elements>

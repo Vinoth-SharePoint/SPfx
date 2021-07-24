@@ -1,0 +1,29 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/core-build/serve.schema.json",
+  "port": 4321,
+  "https": true,
+  "serveConfigurations": {
+    "default": {
+      "pageUrl": "https://vinovijayabalan.sharepoint.com/sites/Angel/SitePages/Home.aspx",
+      "customActions": {
+        "0af04d14-773d-4839-a2fa-114b990d2277": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    },
+    "sPfxSiteMessageSolution": {
+      "pageUrl": "https://vinovijayabalan.sharepoint.com/sites/Angel/SitePages/Home.aspx",
+      "customActions": {
+        "0af04d14-773d-4839-a2fa-114b990d2277": {
+          "location": "ClientSideExtension.ApplicationCustomizer",
+          "properties": {
+            "testMessage": "Test message"
+          }
+        }
+      }
+    }
+  }
+}
