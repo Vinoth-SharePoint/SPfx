@@ -20,6 +20,7 @@ Short summary on functionality and used technologies.
 ## Prerequisites
 
 > Any special pre-requisites?
+> Create BannerMessagesList
 
 ## Solution
 
